@@ -1,3 +1,7 @@
+*{
+    font-family: playfair;
+}
+
 .hamburger {
     cursor: pointer !important;
 }
@@ -38,8 +42,7 @@
 }
 
 .hello {
-    transition: top 1s ease-in-out !important;
-    z-index: 0 !important;
+    transition: top 1s ease-out !important;
 }
 
 

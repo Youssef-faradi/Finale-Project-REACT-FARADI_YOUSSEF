@@ -6,5 +6,11 @@
     --primary: #c41e1e;
     --secondary: #b0abab;
     --third: #e3e3e3;
+    --white: #ffffff;
+}
 
+
+@font-face {
+    font-family: playfair;
+    src: url(./assets/fonts/PlayfairDisplay-SemiBold.ttf);
 }
